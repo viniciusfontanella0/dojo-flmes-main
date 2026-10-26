@@ -1,0 +1,5 @@
+[
+  { "id": 1, "titulo": "Matrix", "ano": 1999, "genero": "ficção científica" },
+  { "id": 2, "titulo": "Cidade de Deus", "ano": 2002, "genero": "drama" },
+  { "id": 3, "titulo": "Parasita", "ano": 2019, "genero": "drama" }
+]
